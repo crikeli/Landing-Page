@@ -1,0 +1,10 @@
+{
+  "appId": "zestlandingpage",
+  "apiKey": "bb004eb675c1cdcfc77ff3fa75be39033b35f1a63f5f1cdc352b38d9ab29b639",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
